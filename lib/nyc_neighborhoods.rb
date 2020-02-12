@@ -1,4 +1,5 @@
 require "nyc_neighborhoods/version"
+require 'json'
 #require_relative './nyc_neighborhoods/main.rb'
 module NycNeighborhoods
   class Error < StandardError; end
