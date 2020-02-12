@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nyc_neighborhoods (0.1.2)
+    nyc_neighborhoods (0.1.4)
 
 GEM
   remote: https://rubygems.org/
